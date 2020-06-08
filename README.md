@@ -9,6 +9,8 @@ For the current exercise, Linux bash script is used for data pre-processing (as 
   2. Dataframes </li>
   
 #### Visualisation 
-In the current exercise, visualisation is attached to each seven problem statements. The visualisation was done using python libraries like pandas, seaborne, matplotlib (as shown in the code).
+In the current exercise, visualisation is attached to each seven problem statements. The visualisation was done using python libraries like pandas, seaborne, matplotlib (as shown in the <a href = https://github.com/karishmapr/Big-Data-Tools/blob/master/assignment_Pyspark.ipynb> code </a>).
+
+
 
 
