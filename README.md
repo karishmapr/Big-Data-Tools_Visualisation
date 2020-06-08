@@ -1,4 +1,4 @@
-# Big-Data-Tools
+# Big-Data-Tools Coursework 2019-20
 The repository holds the coursework of Big Data Tools and Technique course at the University of Salford, UK, by Karishma Prasad. 
 The current study focusses on applications of Big Data in the health care industry. The aim is to analyse and visualise the real-life medical data using the Big Data tools and techniques. The data is provided by the University of Salford comprising of ‘Imaging’, ’Diagnoses’ and ‘Hearing evaluation’.
 Seven problem statements are given which needed to be computed using the pyspark implementations.
